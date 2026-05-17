@@ -1,5 +1,4 @@
-# chat
-A zero-trust chat cli  
+# sec-chat
 <img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/3e3b7326-77f0-41cd-b02d-7825489e6fe8" />
 
 ## Features
@@ -30,8 +29,8 @@ Git
 
 ## Installation
 ```bash
-git clone https://github.com/q1lra/chat.git
-cd chat/client
+git clone https://github.com/q1lra/sec-chat.git
+cd sec-chat/client
 go run main.go crypto.go
 ```
 
