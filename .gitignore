@@ -1,5 +1,6 @@
 pass.dat
 chatapp.db
+push_git.bat
 
 *.exe
 *.exe~

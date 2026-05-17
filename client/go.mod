@@ -1,4 +1,4 @@
-module chat-app/client
+module chat/client
 
 go 1.26.3
 
