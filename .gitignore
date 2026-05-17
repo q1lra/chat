@@ -1,0 +1,10 @@
+pass.dat
+chatapp.db
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+client/client
+server/server
