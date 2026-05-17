@@ -6,7 +6,9 @@ git config user.name "q1lra"
 
 git init
 git add .
+
 git commit -m "init"
 git branch -M main
-git remote add origin https://github.com/q1lra/chat.git
-git push -u origin main
+
+git remote set-url origin https://github.com/q1lra/chat.git
+git push -f -u origin main
