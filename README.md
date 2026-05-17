@@ -3,7 +3,7 @@
 ## Features
 
 ## Requirements
-Go minimum version go1.26.3 
+Go minimum version go1.26.3  
 Git
 
 ## Installation
