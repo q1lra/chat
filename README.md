@@ -1,4 +1,6 @@
 # chat
+A zero-trust chat cli  
+<img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/3e3b7326-77f0-41cd-b02d-7825489e6fe8" />
 
 ## Features
 Decentralized Node Swapping  

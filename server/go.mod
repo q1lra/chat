@@ -1,4 +1,4 @@
-module chat/server
+module sec-chat/server
 
 go 1.26.3
 
